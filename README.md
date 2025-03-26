@@ -1,4 +1,4 @@
- #Medical AI
+#Medical AI
 
 This project is a python programmed BERT-based model that can be used as a preliminary diagnostic tool. We ran the code and completed the project on Google Colab and uploaded the final notebook on the Github repository.
 
