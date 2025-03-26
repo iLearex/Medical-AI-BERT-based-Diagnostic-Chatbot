@@ -1,4 +1,4 @@
-#Medical AI
+# Medical AI
 
 This project is a python programmed BERT-based model that can be used as a preliminary diagnostic tool. We ran the code and completed the project on Google Colab and uploaded the final notebook on the Github repository.
 
@@ -10,7 +10,7 @@ Dataset 2: Disease_symptom_and_patient_profile_dataset (combined)
 source:https://www.kaggle.com/datasets/uom190346a/disease-symptoms-and-patient-profile-dataset
 
 
-##Installation
+## Installation
 Use the package manager [pip] to install the necessary libraries
 
 ```bash
